@@ -2,7 +2,7 @@
 ## Title: LockboxCaseOpening
 ## Notes: Opens lockboxes with a CS:GO-style case opening animation.
 ## Author: dilapper
-## Version: 0.1.0
+## Version: 1.0.0
 ## SavedVariables: LockboxCaseOpeningDB
 ## IconTexture: Interface\Icons\INV_Misc_Bag_09
 
